@@ -1,1 +1,14 @@
-Upload to here 
+Basic:
+- Use the data sets provided to generate the price today of all the stocks pitched in 17-18 & 18-19
+
+Next Steps: 
+- Price in local currency leaves out a lot of valuble data about returns, find the total dividends and returns in GBP for each stock
+
+Further Challenges:
+- Which of these stocks have returned alpha against their benchmark?
+- Which associates have pitched the best stocks?
+- Which stocks have had the least volatility?
+- Compare comps between some of the data sets 
+- Model an ideal portfolio
+
+Remember it's an open ended project so do anything you want to do with the data and you think might be of interest! 
