@@ -1,24 +1,24 @@
-Name,Associate ,Ticker,Pitch Date,Pitch Price,Curr,Current
-Celgene ,Modesta Koyle,CELG,20/11/2018,66.75,USD,104.7
-Aston Martin,Radek Kucera,AML.L,20/11/2018,15.95,GBP,4.68
-PayPal,Jan Von Stein,PYPL,27/11/2018,81.97,USD,97.36
-Disney,Linh Tran,DIS,27/11/2018,113.9,USD,132.4
-Volkswagen,Andre da Silva,VOW3.DE,04/12/2018,148.12,EUR,171.02
-T-Mobile,Phillip Rbk,TMUS,04/12/2018,66.57,USD,81.67
-Biogen,Arjun Kandola,BIIB,11/12/2018,322.61,USD,281.87
-Norway Royal Salmon,Benjamin Salmon ,NRS.OL,11/12/2018,181.37,NOK,217.4
-Medtronic,Masamba Senghore,MDT,08/01/2019,83.03,USD,104.49
-ATOS,Jeremy Obadia,ATOS,08/01/2019,1.23,EUR,1.72
-Ubisoft,Hassan Ashraf,UBI.PA,15/01/2019,78.5,EUR,56.26
-Siemens,Jan Von Stein,SIE.DE,22/01/2019,99.43,EUR,103.2
-Alphabet,Sean Le Cornu,GOOG,22/01/2019,"1,070",USD,"1,242"
-Costco,Linh Tran,COST,29/01/2019,210.31,USD,299.97
-Nvidia,Phillip Rbk,NVDA,29/01/2019,131.6,USD,195.61
-BMW,Andre da Silva,BMW.DE,05/02/2019,73.61,EUR,68.47
-Coca-Cola,Radek Kucera,KO,05/02/2019,49.26,USD,53.85
-Adobe,Masamba Senghore,ADBE,19/02/2019,257.81,USD,261.09
-Spotify,Arjun Kandola,SPOT,19/02/2019,146.28,EUR,118.01
-Juventus,Hassan Ashraf,JUVE.MI,26/02/2019,1.297,EUR,1.44
-Beneteau,Jeremy Obadia,BEN.PA,26/02/2019,10.66,EUR,9.37
-Schroders Non-Voting,Sean Le Cornu,SDRC.L,05/03/2019,21,GBP,23.2
-Highland Gold Mining,Modesta Koyle,HGM.L,05/03/2019,154.6,GBP,195.2
+Name,Associate ,Ticker,Pitch Date,Pitch Price,Curr
+Celgene ,Modesta Koyle,CELG,20/11/2018,66.75,USD
+Aston Martin,Radek Kucera,AML.L,20/11/2018,15.95,GBP
+PayPal,Jan Von Stein,PYPL,27/11/2018,81.97,USD
+Disney,Linh Tran,DIS,27/11/2018,113.9,USD
+Volkswagen,Andre da Silva,VOW3.DE,04/12/2018,148.12,EUR
+T-Mobile,Phillip Rbk,TMUS,04/12/2018,66.57,USD
+Biogen,Arjun Kandola,BIIB,11/12/2018,322.61,USD
+Norway Royal Salmon,Harald Salmon ,NRS.OL,11/12/2018,181.37,NOK
+Medtronic,Masamba Senghore,MDT,08/01/2019,83.03,USD
+ATOS,Jeremy Obadia,ATOS,08/01/2019,1.23,EUR
+Ubisoft,Hassan Ashraf,UBI.PA,15/01/2019,78.5,EUR
+Siemens,Jan Von Stein,SIE.DE,22/01/2019,99.43,EUR
+Alphabet,Sean Le Cornu,GOOG,22/01/2019,"1,070",USD
+Costco,Linh Tran,COST,29/01/2019,210.31,USD
+Nvidia,Phillip Rbk,NVDA,29/01/2019,131.6,USD
+BMW,Andre da Silva,BMW.DE,05/02/2019,73.61,EUR
+Coca-Cola,Radek Kucera,KO,05/02/2019,49.26,USD
+Adobe,Masamba Senghore,ADBE,19/02/2019,257.81,USD
+Spotify,Arjun Kandola,SPOT,19/02/2019,146.28,EUR
+Juventus,Hassan Ashraf,JUVE.MI,26/02/2019,1.297,EUR
+Beneteau,Jeremy Obadia,BEN.PA,26/02/2019,10.66,EUR
+Schroders Non-Voting,Sean Le Cornu,SDRC.L,05/03/2019,21,GBP
+Highland Gold Mining,Modesta Koyle,HGM.L,05/03/2019,154.6,GBP
