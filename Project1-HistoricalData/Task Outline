@@ -9,6 +9,10 @@ Further Challenges:
 - Which associates have pitched the best stocks?
 - Which stocks have had the least volatility?
 - Compare comps between some of the data sets 
-- Model an ideal portfolio
+- Which stocks have given the best time adjusted returns
 
 Remember it's an open ended project so do anything you want to do with the data and you think might be of interest! 
+
+Useful resources: 
+- Lots on the drive 
+- https://github.com/ranaroussi/yfinance 
