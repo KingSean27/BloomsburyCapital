@@ -1,0 +1,26 @@
+,Name,Associate ,Ticker,Pitch Date,Pitch Price,Curr,Today Price,Price %,Total Divs,Currency Δ,Total %
+0,ABB Ltd ,Matt Smith,ABB,06/03/2018,22.8,CHF,21.86,-0.04,1.623,1.02,0.03
+1,Alibaba Group Holding Ltd ,Anna Erofeeva,BABA,05/12/2017,177.62,USD,186.78,0.05,0.0,1.04,0.05
+2,Apple Inc,Darren Wyy,AAPL,16/01/2018,176.3,USD,261.78,0.48,5.859999999999999,1.06,0.55
+3,Arista Networks Inc ,Xu Jiawei,ANET,14/11/2017,225.5,USD,194.49,-0.14,0.0,1.02,-0.14
+4,BHP Billiton Ltd ,Matt Smith,BHP,05/12/2017,42.1,USD,50.84,0.21,7.0600000000000005,1.04,0.39
+5,BlackRock Inc ,Marcus McLaney,BLK,27/02/2018,563.97,USD,485.0,-0.14,21.92,1.07,-0.11
+7,Domino's Pizza Inc ,Dev Singh,DPZ,12/12/2017,180.96,USD,285.76,0.58,4.61,1.03,0.62
+8,Estee Lauder Companies Inc ,Kelvin Fang,EL,20/02/2018,139.65,USD,193.18,0.38,2.8600000000000003,1.08,0.44
+9,Foot Locker Inc ,Arjun Kandola,FL,06/03/2018,42.1,USD,40.25,-0.04,2.5199999999999996,1.07,0.02
+10,General Motors Co ,Matt Smith,GM,30/01/2018,42.41,USD,35.33,-0.17,2.6599999999999997,1.08,-0.11
+11,Honeywell International Inc. ,Darren Wyy,HON,13/03/2018,145.9,USD,176.79,0.21,5.67,1.07,0.27
+12,Intertek Group plc ,Joshua Zeng,ITRK.L,23/01/2018,5178.0,GBX,5504.0,0.06,181.09999999999997,1.0,0.1
+13,Kraft Heinz Co ,Joshua Zeng,KHC,19/03/2018,67.23,USD,30.54,-0.55,3.4749999999999996,1.07,-0.53
+14,Marriott International Inc ,Jerry Kim,MAR,20/02/2018,140.44,USD,136.25,-0.03,3.4099999999999997,1.08,-0.01
+15,Mastercard Inc ,Kelvin Fang,MA,28/11/2017,154.77,USD,282.57,0.83,2.3200000000000003,1.03,0.87
+16,On The Beach Group plc ,Edmund Xia,OTB.L,30/01/2018,492.0,GBX,434.6,-0.12,4.6000000000000005,1.0,-0.11
+17,Overstock ,Anna Erofeeva,OSTK,27/02/2018,64.4,USD,7.57,-0.88,0.0,1.07,-0.94
+18,Royal Carribean Cruises Ltd,Marcus McLaney,RCL,09/01/2018,123.18,USD,119.13,-0.03,4.78,1.05,0.01
+19,Ryanair Holdings ,Charlotte Pinder,RYA.L,16/01/2018,16.53,EUR,13.69,-0.17,0.0,0.97,-0.17
+20,Siemens AG ,Amos Jaupi,SIEGY,12/12/2017,116.42,EUR,63.24,-0.46,4.329,0.97,-0.41
+21,St Microelectronics ,Adam Barbarowicz,STM,06/02/2018,18.34,EUR,23.87,0.3,0.42,0.97,0.31
+22,Starbucks Corp ,Dev Singh,SBUX,28/11/2017,55.91,USD,83.02,0.48,2.8099999999999996,1.03,0.55
+23,Supernus Pharmaceuticals Inc ,Arjun Kandola,SUPN,23/01/2018,44.25,USD,21.76,-0.51,0.0,1.08,-0.55
+25,US Concrete Inc ,Charlotte Pinder,USCR,13/03/2018,65.2,USD,39.96,-0.39,0.0,1.07,-0.41
+26,US Silica Holdings Inc ,Dev Singh,SLCA,19/03/2018,25.83,USD,4.55,-0.82,0.375,1.07,-0.87
